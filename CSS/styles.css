@@ -1,0 +1,11 @@
+.circleList {
+    list-style: disc;
+}
+
+.squareList {
+    list-style: square;
+}
+
+.green {
+    color: green;
+}
